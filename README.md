@@ -79,48 +79,28 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ### 1.PLACEMENT DATA:  
 ![Screenshot 2024-03-29 113250](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/2805e64e-52d9-49e8-aec8-59133dd9acb6)
-
-
 ### 2.SALARY DATA:
 ![Screenshot 2024-03-29 113306](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/26d11fe3-a1b9-4c77-9d7d-5505de50c9a0)
-
-
 ### 3.CHECKING THE NULL() FUNCTION:
 ![Screenshot 2024-03-29 113329](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/9b9e4e2d-e5d1-4cad-96b1-23763422948f)
-
-
 ### 4.DATA DUPLICATE:
 ![Screenshot 2024-03-29 113342](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/dcb4b902-8204-4ca2-84c7-7416b94829f8)
-
-
 ### 5.PRINT DATA:
 ![Screenshot 2024-03-29 113355](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/dc12d481-8361-4627-8f8e-562a45d98704)
-
-
 ### 6.DATA STATUS:
 ![Screenshot 2024-03-29 113407](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/d7b2176a-87ad-4661-81ba-403a2fdc30de)
 ![Screenshot 2024-03-29 113416](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/cfdfc0e2-ce3d-45f5-b3f5-2702f4df680c)
-
-
-
 ### 7.Y_PREDICTION ARRAY:
 ![Screenshot 2024-03-29 113429](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/80e5d893-926f-4a2a-8bb7-d8fc1858749d)
 
 ### 8.ACCURACY VALUE:
 ![Screenshot 2024-03-29 113436](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/c6c42e8b-aecd-4902-b19f-5b281354f0d6)
-
-
 ### 9.CONFUSION ARRAY:
 ![Screenshot 2024-03-29 113518](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/ee7f0b0c-aca8-41bc-975d-fca433a33fdf)
 ![Screenshot 2024-03-29 113544](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/dfdde437-e9bc-46f7-8f8e-c969342daadc)
-
-
 ### 10.CLASSIFICATION REPORT:
 ![Screenshot 2024-03-29 113600](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/c0890097-711b-46cb-9206-57678c2fb97c)
-
-
 ### PREDICTION OF LR:
 ![Screenshot 2024-03-29 113612](https://github.com/VineelaShaik/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144340862/38ff348e-d19a-4655-ac6b-145e428eaa43)
-
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
